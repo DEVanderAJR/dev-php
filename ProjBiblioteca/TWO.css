@@ -1,0 +1,59 @@
+#imagem{
+	background :url(IMAGES/GIF/SETA.gif)  NO-REPEAT;
+	size:20PX;
+	}
+#formulario{
+	color:white;
+	font-family:helvetica, times new roman,arial;
+	size:15px;
+	
+	
+	}
+#borda{
+		BORDER-TOP-COLOR: black	;
+		BORDER-TOP-STYLE:inset;
+		BORDER-TOP-WIDTH: 3PX;
+		BORDER-RIGHT-COLOR:black;
+		BORDER-RIGHT-STYLE:OUTSET;
+		BORDER-RIGHT-WIDTH:3PX;
+		BORDER-LEFT-COLOR:black;
+		BORDER-LEFT-STYLE:OUTSET;
+		BORDER-LEFT-WIDTH:3PX;
+		BORDER-BOTTOM-COLOR:black;
+		BORDER-BOTTOM-STYLE:OUTSET;
+		BORDER-BOTTOM-WIDTH:1PX;
+		}
+		
+#pesquise{ color:white;
+		padding: 20px;
+		BORDER-TOP-COLOR: white;
+		BORDER-TOP-STYLE:OUTSET;
+		BORDER-TOP-WIDTH: 1PX;
+		BORDER-RIGHT-COLOR:white;
+		BORDER-RIGHT-STYLE:OUTSET;
+		BORDER-RIGHT-WIDTH:1PX;
+		BORDER-LEFT-COLOR:white;
+		BORDER-LEFT-STYLE:OUTSET;
+		BORDER-LEFT-WIDTH:1PX;
+		BORDER-BOTTOM-COLOR:white;
+		BORDER-BOTTOM-STYLE:OUTSET;
+		BORDER-BOTTOM-WIDTH:1PX;
+		
+		}
+#exibi{
+
+color:#096;
+}
+th{
+color:white;
+size: 15px;
+padding: 20px;
+padding-right:0px;
+padding-left:0px;
+background:orange;
+text-decoration: left;
+}
+
+#MUDE{
+	COLOR:ORANGE;
+	}

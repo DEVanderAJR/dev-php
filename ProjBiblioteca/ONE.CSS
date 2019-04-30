@@ -1,0 +1,270 @@
+#central{
+
+	BACKGROUND: URL(IMAGES/FUNDO.JPG) NO-REPEAT ;
+	font-family: helvetica, arial;
+	color:#111;
+}
+# HOME{
+		MARGIN-TOP: 13%;
+		MARGIN-LEFT:2%;
+		MARGIN-BOTTOM:2%;
+		MARGIN-LEFT:14%;
+		PADDING-TOP: 2%;
+		PADDING-LEFT:1px;
+		PADDING-RIGHT:1px;
+		PADDING-BOTTOM:2%;
+		WIDTH:10%;
+		HEIGHT:40%;
+		}
+/*
+BLACK	Preto
+BLUE	Azul
+BEIGE	Bege
+GOLD	Ouro
+GRAY	Cinza
+GREEN	Verde
+NAVY	Azul marinho
+ORANGE	Laranja
+PINK	Rosa
+RED	Vermelho
+TEAL	Verde azulado
+YELLOW	Amarelo
+WRITE	Branco
+SILVER	Prata
+CYAN	Azul claro
+
+*/
+#ENGLOBA{
+		position: ABSOLUTE;
+		WIDTH:70%;
+		HEIGHT: 120%
+		}
+#ENGLOBA{
+		MARGIN-TOP: 10PX;
+		MARGIN-LEFT: 10%;
+		MARGIN-RIGHT: 10%;
+		MARGIN-BOTTOM: 10PX;
+		BORDER-TOP-COLOR: GREEN;
+		BORDER-TOP-STYLE:OUTSET;
+		BORDER-TOP-WIDTH: 3PX;
+		BORDER-RIGHT-COLOR:PURPLE;
+		BORDER-RIGHT-STYLE:OUTSET;
+		BORDER-RIGHT-WIDTH:36PX;
+		BACKGROUND:BLACK;		
+		filter: alpha(opacity=66);
+		-MOZ-OPACITY:66;
+		OPACITY:.66;
+		
+		}
+#ENGLOBA-HOME{
+			POSITION:absolute;
+			MARGIN-TOP: 1PX;
+			MARGIN-LEFT: 1PX;
+			MARGIN-RIGHT: 1PX;
+			MARGIN-BOTTOM: 1PX;
+			PADDING-left:1%;
+			PADDING-RIGHT: 41%;
+			PADDING-TOP:6%;
+		}
+#ENGLOBA-WELLCOME{		
+			POSITION:relative;
+			MARGIN: 1PX;
+			PADDING:2px;
+					
+			}
+#CORPO-HOME{
+	POSITION: ABSOLUTE;
+	font-family: "time news roman";
+	font-size: 17px;
+	color:#096;
+	MARGIN-TOP:45px;
+	 MARGIN-LEFT:110px;
+	 PADDING:0PX;
+	 TEXT-ALIGN:JUSTIFY;
+	}
+#TITULO{
+		POSITION:ABSOLUTE;
+		PADDING-TOP: 1PX;
+		PADDING-BOTTOM:5%;
+		MARGIN-LEFT:38%;
+		MARGIN-TOP:1PX;
+		WIDTH:4%;
+		HEIGHT:2%;
+				/*RESOLVER PROBLEMA COM A IMAGEM REFERENCIANDO O LINK SUSTENTABILIDADE*/
+		}
+#WORLD{
+		POSITION: ABSOLUTE;
+		WIDTH:40%;
+		HEIGHT:50%;
+		margin-left:33px;
+		margin-top:3px;
+		
+		
+		}
+.SOMBRA{
+		width:100%;
+		position:absolute;
+		top:3px;
+		left:3px;
+		color:#360;
+		font: 25px "arial black", Helvetica, sans-serif;
+		}
+.SOMBRA1{
+		width:100%;
+		position:absolute; 
+		top:3px;
+		left:3px;
+		color:#6b9046;
+		font: 25px "arial black", Helvetica, sans-serif;
+		}
+.SOMBRA2{
+		width:100%;
+		position:absolute;
+		top:3px;
+		left:3px;
+		color:#a2b98b;
+		font: 25px "arial black", Helvetica, sans-serif;
+		}
+.SOMBRA3{
+		position:relative;
+		color:#c7d5b9;
+		font: 25px "arial black", Helvetica, sans-serif;
+		}
+#NAVEGAR UL{
+	POSITION: fixed;
+	MARGIN-LEFT: 85%;
+	MARGIN-TOP: 290px;
+	MARGIN-RIGHT: 32%;
+	MARGIN-BOTTOM:25%;
+	PADDING:4PX;
+	font-family: helvetica, arial;
+	COLOR:LIME;
+	text-align: LEFT;
+	LIST-STYLE: NONE;
+	}
+#LIVRO{
+	POSITION: fixed;
+	MARGIN-LEFT: 56%;
+	MARGIN-TOP:5em;
+	MARGIN-BOTTOM: 4%;
+	MARGIN-RIGHT: 1%;
+	padding-top:3%;
+	padding-left: 1%;
+	PADDING-RIGHT: 1PX;
+	PADDING-BOTTOM:1PX;
+	}
+#ARV  {
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 64%;
+	MARGIN-TOP:10EM;
+	WIDTH: 6EM;
+	HEIGHT:8EM;
+	}
+#ARVI{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 64%;
+	MARGIN-TOP:19EM;
+	WIDTH: 6EM;
+	HEIGHT:8EM;
+	}
+#ARVii{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 64%;
+	MARGIN-TOP:28EM;
+	WIDTH: 6EM;
+	HEIGHT:8EM;
+	}
+#ARViii{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 64%;
+	MARGIN-TOP:37EM;
+	WIDTH: 6EM;
+	HEIGHT:8EM;
+	}
+	
+	
+	
+#SLIDE{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 10PX;
+	MARGIN-TOP:10px;
+	}
+	
+#SLIDE1{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 110PX;
+	MARGIN-TOP:10px;
+	}
+	
+#SLIDE2{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 210PX;
+	MARGIN-TOP:10px;
+	}
+		
+#SLIDE3{
+
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 310PX;
+	MARGIN-TOP:10px;
+	}
+#SLIDE4{
+	POSITION:ABSOLUTE;
+	MARGIN-LEFT: 410PX;
+	MARGIN-TOP:10px;
+	}
+#FUNDO{
+	POSITION: ABSOLUTE;
+	margin: 0px;
+	padding:0px;
+	filter: alpha(opacity=30 );
+		-MOZ-OPACITY:30;
+		OPACITY:.30;
+	width:43em;
+	height: 44em;
+	
+	}
+	
+
+#superfi{	
+		position:absolute;	
+		padding-top: 7px;
+		margin-bottom:1px;
+		margin-top: 640px;		
+		margin-left:1px;
+		margin-right:2%;
+		height: 30%;
+		width: 99%;
+		
+	}
+#superfi2{
+	position:absolute;	
+	height:310px;
+	width:591px;
+	}
+#PAGINA{
+		
+		POSITION:ABSOLUTE;
+		MARGIN-TOP: 11EM;
+		MARGIN-BOTTOM:1PX;
+		MARGIN-LEFT:13%;
+		PADDING-TOP: 1PX;
+		PADDING-LEFT:1PX;
+		PADDING-RIGHT:1PX;
+		PADDING-BOTTOM:1PX;
+		WIDTH:50%;
+		HEIGHT:73%;
+		
+		}
+#DIREITOS{
+			position:ABSOLUTE;
+			FONT-FAMILY: "TIME NEWS ROMAN", ARIAL;
+			FONT-SIZE: 10PX;
+			FONT-STYLE: ITALIC;
+			COLOR: WHITE;
+			MARGIN-LEFT:31%;
+			MARGIN-TOP: 70EM;
+			MARGIN-BOTTOM:45%;
+			
+			}
+ 

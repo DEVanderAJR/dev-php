@@ -1,0 +1,31 @@
+<?php
+
+	echo'<div id="formulario1">				
+				<h2>Cadastro de  Livro</h2>
+				<form name="Material" method="Post" action="cadastra.php" enctype="multipart/form-data">
+				Nome do Material:
+				<input type="text" name="nome"><P />
+				Tipo de Produto:<select name="tipo">
+				<option value="Hardware" />Hardware
+				<option value="Software" />Software
+				<option value="Livros" />Livros
+				</select><P />
+				Marca:<select name="Categoria">
+				<option value="hardware" />HARDWARE
+				<option value="soft" />SOFTWARE
+				<option value="program" />PROGRAMACAO
+				<option value="desenv" />DESENVOLVIMENTO
+				<option value="so" />SISTEMAS OPERACIONAIS
+				
+				</select><P />
+				Imagem do Livro:
+				<input type="file" name="imagem" value="Procurar..."><P />
+				
+				<input type="submit" value="Cadastrar" name='Submit'>
+				<input type="reset" value="Apagar">
+				</form>
+				
+				</div>
+				</body>
+
+				?>
